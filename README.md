@@ -8,3 +8,6 @@ git checkout dev
 
 git rebase 测试
 
+git log 查看各个branch 关系
+
+git reset 测试1
