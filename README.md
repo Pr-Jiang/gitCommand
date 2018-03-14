@@ -1,2 +1,8 @@
 # gitCommand
 git命令实验
+
+git checkout -b dev 创建并切换到dev分支
+
+git branch dev
+git checkout dev
+
