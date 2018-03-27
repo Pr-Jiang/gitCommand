@@ -12,3 +12,10 @@ git log 查看各个branch 关系
 
 git reset 测试1
 
+git reset 测试2
+
+git reset --soft HEAD~1  取消commit
+git reset --mixed HEAD~1 取消commit 和 add
+git reset --hard HEAD~1 取消commit 、add 以及本地文件更改
+
+
