@@ -18,4 +18,6 @@ git reset --soft HEAD~1  取消commit
 git reset --mixed HEAD~1 取消commit 和 add
 git reset --hard HEAD~1 取消commit 、add 以及本地文件更改
 
+modify 1
+modify 2
 
