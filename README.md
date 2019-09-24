@@ -24,3 +24,5 @@ modify 2
 commit comment
 
 git stash save -m "123"
+
+git reset HEAD
